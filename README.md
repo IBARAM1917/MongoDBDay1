@@ -3,7 +3,6 @@
 Completed My Task MongoDB Composs
 <br>
 <h2>Questions:</h2>
-<br>
 For the following question write the corresponding MongoDB queries
 <br>
 1.Find all the information about each products
